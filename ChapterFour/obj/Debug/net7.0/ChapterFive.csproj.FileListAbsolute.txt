@@ -1,0 +1,15 @@
+C:\Users\USER\desktop\ChapterFour\bin\Debug\net7.0\ChapterFive.exe
+C:\Users\USER\desktop\ChapterFour\bin\Debug\net7.0\ChapterFive.deps.json
+C:\Users\USER\desktop\ChapterFour\bin\Debug\net7.0\ChapterFive.runtimeconfig.json
+C:\Users\USER\desktop\ChapterFour\bin\Debug\net7.0\ChapterFive.dll
+C:\Users\USER\desktop\ChapterFour\bin\Debug\net7.0\ChapterFive.pdb
+C:\Users\USER\desktop\ChapterFour\obj\Debug\net7.0\ChapterFive.csproj.AssemblyReference.cache
+C:\Users\USER\desktop\ChapterFour\obj\Debug\net7.0\ChapterFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\ChapterFour\obj\Debug\net7.0\ChapterFive.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\ChapterFour\obj\Debug\net7.0\ChapterFive.AssemblyInfo.cs
+C:\Users\USER\desktop\ChapterFour\obj\Debug\net7.0\ChapterFive.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\ChapterFour\obj\Debug\net7.0\ChapterFive.dll
+C:\Users\USER\desktop\ChapterFour\obj\Debug\net7.0\refint\ChapterFive.dll
+C:\Users\USER\desktop\ChapterFour\obj\Debug\net7.0\ChapterFive.pdb
+C:\Users\USER\desktop\ChapterFour\obj\Debug\net7.0\ChapterFive.genruntimeconfig.cache
+C:\Users\USER\desktop\ChapterFour\obj\Debug\net7.0\ref\ChapterFive.dll

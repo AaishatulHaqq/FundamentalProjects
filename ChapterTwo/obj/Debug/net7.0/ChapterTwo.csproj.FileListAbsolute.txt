@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\ChapterTwo\bin\Debug\net7.0\ChapterTwo.exe
+C:\Users\USER\Desktop\ChapterTwo\bin\Debug\net7.0\ChapterTwo.deps.json
+C:\Users\USER\Desktop\ChapterTwo\bin\Debug\net7.0\ChapterTwo.runtimeconfig.json
+C:\Users\USER\Desktop\ChapterTwo\bin\Debug\net7.0\ChapterTwo.dll
+C:\Users\USER\Desktop\ChapterTwo\bin\Debug\net7.0\ChapterTwo.pdb
+C:\Users\USER\Desktop\ChapterTwo\obj\Debug\net7.0\ChapterTwo.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ChapterTwo\obj\Debug\net7.0\ChapterTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ChapterTwo\obj\Debug\net7.0\ChapterTwo.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ChapterTwo\obj\Debug\net7.0\ChapterTwo.AssemblyInfo.cs
+C:\Users\USER\Desktop\ChapterTwo\obj\Debug\net7.0\ChapterTwo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ChapterTwo\obj\Debug\net7.0\ChapterTwo.dll
+C:\Users\USER\Desktop\ChapterTwo\obj\Debug\net7.0\refint\ChapterTwo.dll
+C:\Users\USER\Desktop\ChapterTwo\obj\Debug\net7.0\ChapterTwo.pdb
+C:\Users\USER\Desktop\ChapterTwo\obj\Debug\net7.0\ChapterTwo.genruntimeconfig.cache
+C:\Users\USER\Desktop\ChapterTwo\obj\Debug\net7.0\ref\ChapterTwo.dll
